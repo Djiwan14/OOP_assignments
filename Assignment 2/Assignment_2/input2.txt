@@ -1,0 +1,5 @@
+3
+F GoldFish 5
+D Balto 20
+B Zazu 9
+bo

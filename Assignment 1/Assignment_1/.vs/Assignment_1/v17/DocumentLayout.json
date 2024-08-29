@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shokhrukh N\\Downloads\\APVAVZ Shokhrukh Nigmatillaev Assignment 1 (1)\\Assignment_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F41721-A9D4-4720-B048-0959B2E3DBEB}|Assignment_1\\Assignment_1.csproj|c:\\users\\shokhrukh n\\downloads\\apvavz shokhrukh nigmatillaev assignment 1 (1)\\assignment_1\\assignment_1\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F41721-A9D4-4720-B048-0959B2E3DBEB}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F41721-A9D4-4720-B048-0959B2E3DBEB}|Assignment_1\\Assignment_1.csproj|c:\\users\\shokhrukh n\\downloads\\apvavz shokhrukh nigmatillaev assignment 1 (1)\\assignment_1\\assignment_1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F41721-A9D4-4720-B048-0959B2E3DBEB}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597880BC-C9E0-49BD-9A69-B44174973DF8}|BagTest.nUnitTests\\BagTest.nUnitTests.csproj|c:\\users\\shokhrukh n\\downloads\\apvavz shokhrukh nigmatillaev assignment 1 (1)\\assignment_1\\bagtest.nunittests\\bagtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597880BC-C9E0-49BD-9A69-B44174973DF8}|BagTest.nUnitTests\\BagTest.nUnitTests.csproj|solutionrelative:bagtest.nunittests\\bagtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F41721-A9D4-4720-B048-0959B2E3DBEB}|Assignment_1\\Assignment_1.csproj|c:\\users\\shokhrukh n\\downloads\\apvavz shokhrukh nigmatillaev assignment 1 (1)\\assignment_1\\assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F41721-A9D4-4720-B048-0959B2E3DBEB}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F41721-A9D4-4720-B048-0959B2E3DBEB}|Assignment_1\\Assignment_1.csproj|c:\\users\\shokhrukh n\\downloads\\apvavz shokhrukh nigmatillaev assignment 1 (1)\\assignment_1\\assignment_1\\input2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5F41721-A9D4-4720-B048-0959B2E3DBEB}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\input2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BagTests.cs",
+              "DocumentMoniker": "C:\\Users\\Shokhrukh N\\Downloads\\APVAVZ Shokhrukh Nigmatillaev Assignment 1 (1)\\Assignment_1\\BagTest.nUnitTests\\BagTests.cs",
+              "RelativeDocumentMoniker": "BagTest.nUnitTests\\BagTests.cs",
+              "ToolTip": "C:\\Users\\Shokhrukh N\\Downloads\\APVAVZ Shokhrukh Nigmatillaev Assignment 1 (1)\\Assignment_1\\BagTest.nUnitTests\\BagTests.cs",
+              "RelativeToolTip": "BagTest.nUnitTests\\BagTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:42:47.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "input2.txt",
+              "DocumentMoniker": "C:\\Users\\Shokhrukh N\\Downloads\\APVAVZ Shokhrukh Nigmatillaev Assignment 1 (1)\\Assignment_1\\Assignment_1\\input2.txt",
+              "RelativeDocumentMoniker": "Assignment_1\\input2.txt",
+              "ToolTip": "C:\\Users\\Shokhrukh N\\Downloads\\APVAVZ Shokhrukh Nigmatillaev Assignment 1 (1)\\Assignment_1\\Assignment_1\\input2.txt",
+              "RelativeToolTip": "Assignment_1\\input2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-17T20:54:01.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "C:\\Users\\Shokhrukh N\\Downloads\\APVAVZ Shokhrukh Nigmatillaev Assignment 1 (1)\\Assignment_1\\Assignment_1\\Bag.cs",
+              "RelativeDocumentMoniker": "Assignment_1\\Bag.cs",
+              "ToolTip": "C:\\Users\\Shokhrukh N\\Downloads\\APVAVZ Shokhrukh Nigmatillaev Assignment 1 (1)\\Assignment_1\\Assignment_1\\Bag.cs",
+              "RelativeToolTip": "Assignment_1\\Bag.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:29:45.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Shokhrukh N\\Downloads\\APVAVZ Shokhrukh Nigmatillaev Assignment 1 (1)\\Assignment_1\\Assignment_1\\Menu.cs",
+              "RelativeDocumentMoniker": "Assignment_1\\Menu.cs",
+              "ToolTip": "C:\\Users\\Shokhrukh N\\Downloads\\APVAVZ Shokhrukh Nigmatillaev Assignment 1 (1)\\Assignment_1\\Assignment_1\\Menu.cs",
+              "RelativeToolTip": "Assignment_1\\Menu.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAwwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:11:39.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shokhrukh N\\Downloads\\APVAVZ Shokhrukh Nigmatillaev Assignment 1 (1)\\Assignment_1\\Assignment_1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Shokhrukh N\\Downloads\\APVAVZ Shokhrukh Nigmatillaev Assignment 1 (1)\\Assignment_1\\Assignment_1\\Program.cs",
+              "RelativeToolTip": "Assignment_1\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:08:13.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
